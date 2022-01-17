@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4WxHpoo1ng6t54P13GLhCT9DJo52yvvhdMjjfwQleV1LWnPQX4BnnS1EgidKp1WzlmdJ6YhOUtqutiS64e/vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\DependencyInjectionInClassLibrary\\DependencyInjectionInClassLibrary\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
